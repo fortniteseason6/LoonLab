@@ -263,10 +263,87 @@
 官方频道：[@CloudFisher](https://t.me/CloudFisher)<br>
 官方群组：[@CloudFisherGroup](https://t.me/CloudFisherGroup)<br>
 
+### **Alphaio**
+
+- **机场介绍**<br>
+1. 采用 Shadowcocks 协议，全线提供 1 倍率 BGP 专线。<br>
+2. 提供香港、日本、新加坡、美国、台湾热门地区节点，无其他地区节点。<br>
+4. 提供流媒体解锁，包括但不限于 Netflix、YouTube 等。<br>
+5. 提供 AI 解锁，包括但不限于 ChatGPT、Gemini 等。<br>
+6. 提供中转套餐与直连套餐，直连套餐无 SLA 保证。<br>
+7. 在线设备数合理即可。<br>
+
+- **套餐介绍**<br>
+<div style="overflow-x: auto;">
+    <table style="white-space: nowrap;">
+        <tr>
+            <th width="120px" align="center">周期套餐</th>
+            <th width="100px" align="center">月流量</th>
+            <th width="100px" align="center">月付</th>
+            <th width="100px" align="center">季付</th>
+            <th width="100px" align="center">半年付</th>
+            <th width="100px" align="center">年付</th>
+            <th width="100px" align="center">线路</th>
+        </tr>
+        <tr>
+            <td align="center">妄享套餐</td>
+            <td align="center">300G</td>
+            <td align="center">×</td>
+            <td align="center">×</td>
+            <td align="center">×</td>
+            <td align="center">¥101</td>
+            <td align="center"></td>
+        </tr>
+        <tr>
+            <td align="center">随享套餐</td>
+            <td align="center">100G</td>
+            <td align="center">¥8</td>
+            <td align="center">¥22.8</td>
+            <td align="center">¥43.2</td>
+            <td align="center">¥76.8</td>
+            <td align="center"></td>
+        </tr>
+        <tr>
+            <td align="center">优享套餐</td>
+            <td align="center">200G</td>
+            <td align="center">¥14</td>
+            <td align="center">¥39.9</td>
+            <td align="center">¥75.6</td>
+            <td align="center">¥134.4</td>
+            <td align="center"></td>
+        </tr>
+        <tr>
+            <td align="center">超享套餐</td>
+            <td align="center">500G</td>
+            <td align="center">¥30</td>
+            <td align="center">¥85.5</td>
+            <td align="center">¥162</td>
+            <td align="center">¥288</td>
+            <td align="center"></td>
+        </tr>
+        <tr>
+            <td align="center">直享套餐</td>
+            <td align="center">500G</td>
+            <td align="center">¥2</td>
+            <td align="center">×</td>
+            <td align="center">×</td>
+            <td align="center">×</td>
+            <td align="center">海外直连</td>
+        </tr>
+    </table>
+</div>
+
+- **购买方式**<br>
+点击 [Alphaio官网](https://user.alphalo.net/register?code=xGyimy7I) 购买，季付以上享 95 折优惠（妄享、直享除外）
+
+- **联系方式**<br>
+官方频道：[@Alphaio_Channel](https://t.me/Alphaio_Channel)<br>
+官方群组：[@AlphaioNet](https://t.me/AlphaioNet)<br>
+
 ### **AshNet**
 
 - **机场介绍**<br>
-1. 采用 Trojan 协议，全线提供 1 倍率 IEPL 专线。（后续不同套餐可能会进行限速调整）<br>
+1. 采用 Trojan 协议，全线提供 1 倍率 IEPL 专线。<br>
 2. 提供台湾、香港、日本、韩国、新加坡、美国、英国等地区节点。<br>
 4. 提供流媒体解锁，包括但不限于 Netflix、Disney+、HBO、Bahamut 等。<br>
 5. 提供 AI 解锁，包括但不限于 ChatGPT、Gemini 等。<br>
@@ -331,7 +408,7 @@
             <td align="center">♾️Mbps</td>
         </tr>
         <tr>
-            <td align="center">Plus</td>
+            <td align="center">Ultra</td>
             <td align="center">1T</td>
             <td align="center">¥108</td>
             <td align="center">¥324</td>
